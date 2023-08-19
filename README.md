@@ -1,14 +1,19 @@
 # DistillNet-Model
 
+Steps:
 
-1.) Creating a teacher model
+1.) Create a teacher model
+
 2.) Performing knowledge distillation
+
 3.) Training a student model
+
 4.) Saving the student model
+
 5.) Test the student model
 
 
-
+DistillNet:
  -->generated sample data and defined the architecture of the teacher model, compiling it with the appropriate loss function.
  
  -->trained the teacher model using the same data for both inputs and targets.
